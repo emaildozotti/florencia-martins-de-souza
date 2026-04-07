@@ -16,6 +16,6 @@ export const SITE = {
   waLink:
     'https://wa.me/55XXXXXXXXXXX?text=Ol%C3%A1%2C%20Flor%C3%AAncia!%20Vi%20sua%20p%C3%A1gina%20e%20quero%20agendar%20a%20conversa%20inicial%20gratuita.',
   videoUrl: '',
-  fotoHero: '/foto-hero.jpg',
-  fotoAbout: '/foto-about.jpg',
+  fotoHero: '/images/hero.jpg',
+  fotoAbout: '/images/about.jpg',
 }
