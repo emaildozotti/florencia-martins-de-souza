@@ -6,10 +6,10 @@ import { SITE } from '../site.config'
 // COPY — SUBSTITUIR POR CLIENTE (lp-copy.md → Bloco 1 Hero)
 // ════════════════════════════════════════════════════════════════════
 const COPY = {
-  callout: 'REPROCESSAMENTO INCONSCIENTE',
-  h1: 'Seus 400% estão gritando.',
-  h1Em: 'E a fala não alcança.',
-  subtitle: 'Reprocessamento terapêutico que acessa o que nenhuma conversa resolve.',
+  callout: 'REPROCESSAMENTO TERAPÊUTICO',
+  h1: 'Sua dor não é frescura.',
+  h1Em: 'E não se resolve só falando.',
+  subtitle: 'Reprocessamento terapêutico que acessa o que nenhuma conversa alcança, para libertar quem a vida estagnou.',
   ctaPrimary: 'Quero agendar minha sessão',
   ctaSecondary: 'ou entenda como funciona',
 }
